@@ -14,13 +14,13 @@
   "assignee.login": [
     {
       "pattern": ".+",
-      "message": "You need to assign someone"
+      "message": "You need to assign someone to the PR"
     }
   ],
   "requested_teams.0.id": [
     {
       "pattern": ".+",
-      "message": "The product team needs to be added as a reviewer"
+      "message": "You need to assign a reviewer for this PR"
     }
   ],
   "labels.0.name": [
